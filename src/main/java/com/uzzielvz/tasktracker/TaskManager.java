@@ -32,6 +32,7 @@ public class TaskManager
     
     public void removeTask(Task task)
     {
+        
         tasks.remove(task);
         saveTasks();
         System.out.println("Task removed: " + task.getDescription() + " -" + task.getId());

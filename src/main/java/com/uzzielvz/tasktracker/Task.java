@@ -95,6 +95,8 @@ public class Task
     @Override
     public String toString()
     {
-        return description + "- " + id;
+        return description + "- " + id + "\n" +
+                "Last update: " + updatedAt + "\n" +
+                "Created at: " + createdAt +"\n";
     }
 }

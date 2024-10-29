@@ -1,7 +1,7 @@
 # Task Manager
 
 ## URL project
-[TASK TRACKER](https://github.com/uzzielvdz/TaskTracker)
+https://github.com/uzzielvdz/TaskTracker
 
 
 ## Description
